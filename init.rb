@@ -23,10 +23,11 @@ class Heroku::Command::Values < Heroku::Command::Base
     #
     def values
       [
-        "Simple beats easy.",
-        "Do less, but better.",
-        "Delight the user.",
-        "Good enough isn't."
+        "Build for developers.",
+        "Design everything.",
+        "Try anything.",
+        "Simplify.",
+        "Delight."
       ]
     end
         
