@@ -10,5 +10,4 @@ $ heroku plugins:install https://github.com/max/heroku-values.git
 
 ```
 $ heroku values
-$ heroku values --team webapps
 ```
