@@ -1,6 +1,6 @@
 # heroku-values
 
-Heroku's values at your terminal.
+My take on Heroku's values at your terminal.
 
 ## Installation
 
