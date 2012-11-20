@@ -23,10 +23,10 @@ class Heroku::Command::Values < Heroku::Command::Base
     #
     def values
       [
-        "Build for developers.",
         "Design everything.",
-        "Try anything.",
-        "Simplify.",
+        "Clever is good, clear is better.",
+        "Don't leave anything up to chance.",
+        "Question what is thought to be obvious.",
         "Delight."
       ]
     end
