@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-$ heroku plugins:install https://github.com/pvh/heroku-values.git
+$ heroku plugins:install https://github.com/max/heroku-values.git
 ```
 
 ## Usage
